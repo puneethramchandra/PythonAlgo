@@ -36,3 +36,6 @@ print(hb1.sign_in())
 
 print(hb1.attack())
 print(hb1.check_arrows())
+
+
+print(HybridBorg.__mro__)   #Method Resolution Order
